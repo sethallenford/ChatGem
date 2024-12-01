@@ -1,4 +1,4 @@
 # Chat Gem💎
 ♊Activated!
 
-In game voice chat for World of Warcraft Classic Era guild members.
+In game proximity voice chat for World of Warcraft Classic Era guild members.
